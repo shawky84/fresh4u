@@ -501,7 +501,7 @@ const Contact: React.FC = () => {
           Request a quote
         </Line>
         <Line at={525} style={{ marginTop: 16, fontSize: 50, ...body(500) }}>
-          FarahShawki@fresh4ueg.com
+          info@fresh4ueg.com
         </Line>
       </div>
     </>

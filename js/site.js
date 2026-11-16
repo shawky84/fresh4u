@@ -10,7 +10,7 @@
   'use strict';
 
   var WHATSAPP_NUMBER = '201127222204';
-  var EMAIL = 'FarahShawki@fresh4ueg.com';
+  var EMAIL = 'info@fresh4ueg.com';
 
   /* Season status for a month (0 = January … 11 = December).
      Beauregard: August to May. Bellevue: July to January. */

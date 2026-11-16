@@ -133,7 +133,7 @@ Five short reasons from the profile as a large-type list, one per line, each lin
 ### 12. Enquiry (flesh) — full orange ground, `--soil` text
 Display headline: "Tell us what you need. We reply with an offer."
 Enquiry builder (no backend). Fields: Product (select: Sweet potatoes Beauregard, Sweet potatoes Bellevue, Grapes, Pomegranates, Green onions, Iceberg lettuce, Bell peppers, Watermelon, Potatoes, Garlic, Oranges, Other), Size (shown only for sweet potatoes: Small, Medium, L1, L2, XL, Mixed), Packaging (the five formats, Other), Volume (free text, placeholder "for example 1 x 40 ft reefer per week"), Destination port or country (text), Terms (FOB, CFR, CIF), Company and name (text).
-Below, a live preview of the message in a plain box. Two buttons: "Send on WhatsApp" (opens `https://wa.me/201127222204?text=<encoded message>`) and "Send by email" (opens `mailto:FarahShawki@fresh4ueg.com` with subject "Enquiry: <product>" and the message as body). Real `<label>` elements. Required: product and destination. Show a plain error line next to a missing field; do not open the link.
+Below, a live preview of the message in a plain box. Two buttons: "Send on WhatsApp" (opens `https://wa.me/201127222204?text=<encoded message>`) and "Send by email" (opens `mailto:info@fresh4ueg.com` with subject "Enquiry: <product>" and the message as body). Real `<label>` elements. Required: product and destination. Show a plain error line next to a missing field; do not open the link.
 Under it, direct contacts in large type: WhatsApp +20 112 722 2204, +20 122 757 7570, the email, "Cairo, Egypt".
 
 ### Footer (flesh, continues)

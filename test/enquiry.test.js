@@ -52,7 +52,7 @@ check('WhatsApp link for the sample input', () => {
 
 check('mailto link for the sample input', () => {
   const url = F.mailtoUrl(sample.product, expected);
-  assert.ok(url.startsWith('mailto:FarahShawki@fresh4ueg.com?subject=Enquiry%3A%20Sweet%20potatoes%20Beauregard&body='));
+  assert.ok(url.startsWith('mailto:info@fresh4ueg.com?subject=Enquiry%3A%20Sweet%20potatoes%20Beauregard&body='));
   assert.equal(decodeURIComponent(url.split('&body=')[1]), expected.replace(/\n/g, '\r\n'));
 });
 
